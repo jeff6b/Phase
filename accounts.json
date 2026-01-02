@@ -1,1 +1,18 @@
-
+{
+  "phasegg": {
+    "password": "supersecret123",
+    "hwid": "ABC123-DEF456-GHI789-JKL012"
+  },
+  "testuser": {
+    "password": "mypass2026",
+    "hwid": ""
+  },
+  "vipuser": {
+    "password": "elitepass",
+    "hwid": "XYZ987-UVW654-RST321-OPQ000"
+  },
+  "z": {
+    "password": "z",
+    "hwid": "d"
+  }
+}
