@@ -18,5 +18,9 @@
   "x": {
     "password": "x",
     "hwid": ""
+  },
+  "n": {
+    "password": "nnn",
+    "hwid": ""
   }
 }
